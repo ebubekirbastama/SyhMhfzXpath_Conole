@@ -18,5 +18,5 @@ for (var i = 0; i < $x("//div[@class='title']//a").length; i++)
 }
  for (var j = 0; j < syhmhz.length; j++) 
 {
-  document.write(syhmhz[j]+"\r");
+  document.write(syhmhz[j]+"<br>");
 }
